@@ -32,7 +32,7 @@ Main liquidity pair (PancakeSwap V2, SONAX/X): `0x7711991Ece965e72e10C3CEf876717
 
 ## Public Links
 
-- Website: https://ecnb6gldc2su.doubao.link/app/app_17jfcp5vz1d
+- Website: https://sonaxfound.com/
 - X (Twitter): https://x.com/SONAX_AIFI
 - Telegram: https://t.me/SONAX_GlobalCommunity
 - BscScan: https://bscscan.com/token/0x9C3524FeAdc609Ff05dd25c33d1263F348666666
